@@ -41,10 +41,6 @@ Tracks employee performance scores based on their education level and where they
 Monitors annual employee attrition trends and identifies high-risk departments.
 
 <p align="center">
-  <img src="images/turnover.png" width="850" alt="Turnover Dashboard">
-</p>
-
-<p align="center">
   <img src="Screenshot 2026-05-18 115541.png" width="850" alt="Turnover Dashboard">
 </p>
 
