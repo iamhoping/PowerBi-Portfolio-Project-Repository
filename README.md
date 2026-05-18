@@ -52,7 +52,7 @@ Monitors annual employee attrition trends and identifies high-risk departments.
 Breaks down the average salary across different job titles, departments, and work environments (On-site vs. Remote).
 
 <p align="center">
-  <img src="Screenshot 2026-05-18 115528.png" width="850" alt="Compensation Dashboard">
+  <img src="Screenshot 2026-05-18 121945.png" width="850" alt="Compensation Dashboard">
 </p>
 
 ---
