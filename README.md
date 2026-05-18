@@ -12,7 +12,7 @@ This repository contains two main projects:
 This dashboard analyzes how social media usage and distraction levels affect students' study habits and focus.
 
 <p align="center">
-  <img src="images/student_productivity.png" width="850" alt="Student Productivity Dashboard">
+  <img src="[images/student_productivity.png](https://github.com/iamhoping/My-Power-BI-Portfolio-HR-Analytics-Student-Productivity/blob/main/Screenshot%202026-05-18%20120925.png?raw=true)" width="850" alt="Student Productivity Dashboard">
 </p>
 
 ### Key Questions This Dashboard Answers:
@@ -34,21 +34,21 @@ A suite of dashboards built using a corporate dataset to track company-wide work
 Tracks employee performance scores based on their education level and where they are located.
 
 <p align="center">
-  <img src="images/performance.png" width="850" alt="Performance Dashboard">
+  <img src="[images/performance.png](https://github.com/iamhoping/My-Power-BI-Portfolio-HR-Analytics-Student-Productivity/blob/main/Screenshot%202026-05-18%20115552.png?raw=true)" width="850" alt="Performance Dashboard">
 </p>
 
 ### 2. Company Turnover Tracker
 Monitors annual employee attrition trends and identifies high-risk departments.
 
 <p align="center">
-  <img src="images/turnover.png" width="850" alt="Turnover Dashboard">
+  <img src="[images/turnover.png](https://github.com/iamhoping/My-Power-BI-Portfolio-HR-Analytics-Student-Productivity/blob/main/Screenshot%202026-05-18%20115541.png?raw=true)" width="850" alt="Turnover Dashboard">
 </p>
 
 ### 3. Compensation Analysis
 Breaks down the average salary across different job titles, departments, and work environments (On-site vs. Remote).
 
 <p align="center">
-  <img src="images/compensation.png" width="850" alt="Compensation Dashboard">
+  <img src="[images/compensation.png](https://github.com/iamhoping/My-Power-BI-Portfolio-HR-Analytics-Student-Productivity/blob/main/Screenshot%202026-05-18%20115528.png?raw=true)" width="850" alt="Compensation Dashboard">
 </p>
 
 ---
