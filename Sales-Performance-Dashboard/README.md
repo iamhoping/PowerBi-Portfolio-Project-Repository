@@ -31,7 +31,7 @@ The dashboard enables users to:
 |------|-------------|
 | **Dataset** | Sample Superstore |
 | **Records** | ~9,994 Sales Transactions |
-| **File Type** | Excel (.xlsx) |
+| **File Type** | Excel (.csv) |
 | **Tool Used** | Microsoft Power BI Desktop |
 
 ### Dataset Features
