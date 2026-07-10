@@ -81,7 +81,7 @@ My goal is to become a professional **Data Analyst** by creating real-world proj
 
 ### Connect with Me
 
-- GitHub: https://github.com/iamhoping
+- email: pinedajaymark99@gmail.com
 - LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
