@@ -1,17 +1,73 @@
+##  Project: Student Productivity & Social Media Impact
 
-## Project : Student Productivity & Social Media Impact
-This dashboard analyzes how social media usage and distraction levels affect students' study habits and focus.
-
+An interactive Power BI dashboard that explores the relationship between social media usage, distraction levels, and students' academic productivity. The dashboard uncovers behavioral patterns that help explain how digital habits influence study performance and focus.
 <p align="center">
   <img src="/Screenshot 2026-05-18 120925.png" width="850" alt="Student Productivity Dashboard">
 </p>
 
-### Key Questions This Dashboard Answers:
-* **Focus vs. Study Hours:** Does having a harder time regaining focus correlate with studying fewer hours? (Hint: Students who find it "Very Difficult" to focus study significantly less).
-* **Top Distractions:** Which social media platforms pull students away from their work the most? (TikTok takes a massive **60%** lead).
-* **Multitasking Beliefs:** How does a student's belief about their multitasking ability track against their actual study hours vs. social media hours?
+### Business Questions Answered
 
-### What I Practiced Here:
-* **Donut Charts:** Displaying percentage breakdowns for categorical data (Distracting Platforms).
-* **Scatter Plots:** Mapping two numerical variables (`Study Hours` vs. `Social Media Hours`) against user beliefs to find correlations.
-* **KPI Scorecards:** Creating custom metrics like a **Distraction Ratio (1.45)** to give a quick summary of the data.
+####  Focus vs. Study Hours
+Examines whether students who struggle to regain focus after distractions spend fewer hours studying, helping identify productivity trends.
+
+####  Most Distracting Social Media Platforms
+Identifies which social media platforms contribute the most to student distraction and compares their impact across the dataset.
+
+####  Multitasking vs. Actual Productivity
+Analyzes whether students' perceived multitasking ability aligns with their actual study time and social media usage.
+
+---
+
+##  Dashboard Features
+
+- Interactive KPI Cards
+- Donut Charts
+- Scatter Plots
+- Bar Charts
+- Slicers & Filters
+- Dynamic Cross-Filtering
+- Responsive Dashboard Layout
+
+---
+
+##  Skills Demonstrated
+
+### Data Preparation
+- Data Cleaning with Power Query
+- Data Transformation
+- Data Validation
+
+### Power BI Development
+- Interactive Dashboard Design
+- KPI Creation
+- Slicer Configuration
+- Cross-Filtering
+- Dashboard Navigation
+
+### Data Visualization
+- KPI Cards
+- Donut Charts
+- Scatter Plots
+- Bar Charts
+
+### Business Analysis
+- Student Productivity Analysis
+- Social Media Behavior Analysis
+- Correlation Analysis
+- Trend Analysis
+- Data Storytelling
+
+### Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+##  Key Insights
+
+- Students who reported greater difficulty regaining focus generally studied fewer hours.
+- TikTok emerged as the leading source of distraction among the surveyed social media platforms.
+- Higher social media usage often corresponded with lower study hours, indicating a negative relationship between screen time and academic productivity.
+- Students' self-perceived multitasking ability did not consistently translate into higher productivity, highlighting a gap between perception and actual performance.
