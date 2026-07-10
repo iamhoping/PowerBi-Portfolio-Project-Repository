@@ -1,66 +1,89 @@
-# My-Power-BI-Portfolio-HR-Analytics-Student-Productivity
+#  My Power BI Portfolio
 
-My Power BI Portfolio: HR Analytics &amp; Student Productivity  Welcome to my Power BI portfolio! As a beginner data analyst, I built these interactive dashboards to practice importing data, designing clean layouts, and using data visualization to uncover real-world insights.
+Welcome to my **Power BI Portfolio**, where I showcase interactive dashboards and business intelligence projects built using **Power BI**, **Power Query**, and **DAX**.
 
-This repository contains two main projects:
-1. **HR Workforce Analytics** (Performance, Turnover, and Compensation)
-2. **Student Productivity & Social Media Impact** (Focus and Distraction Study)
+Each project focuses on solving real-world business problems through data cleaning, modeling, visualization, and delivering actionable business insights.
 
 ---
 
-## Project 1: Student Productivity & Social Media Impact
-This dashboard analyzes how social media usage and distraction levels affect students' study habits and focus.
+##  Projects
 
-<p align="center">
-  <img src="Screenshot 2026-05-18 120925.png" width="850" alt="Student Productivity Dashboard">
-</p>
-
-### Key Questions This Dashboard Answers:
-* **Focus vs. Study Hours:** Does having a harder time regaining focus correlate with studying fewer hours? (Hint: Students who find it "Very Difficult" to focus study significantly less).
-* **Top Distractions:** Which social media platforms pull students away from their work the most? (TikTok takes a massive **60%** lead).
-* **Multitasking Beliefs:** How does a student's belief about their multitasking ability track against their actual study hours vs. social media hours?
-
-### What I Practiced Here:
-* **Donut Charts:** Displaying percentage breakdowns for categorical data (Distracting Platforms).
-* **Scatter Plots:** Mapping two numerical variables (`Study Hours` vs. `Social Media Hours`) against user beliefs to find correlations.
-* **KPI Scorecards:** Creating custom metrics like a **Distraction Ratio (1.45)** to give a quick summary of the data.
+| Project | Description | View Project |
+|---------|-------------|--------------|
+|  **HR Analytics Dashboard** | Analyze employee demographics, attrition, department performance, and workforce trends to support HR decision-making. | [View Project](https://github.com/iamhoping/PowerBi-Portfolio-Project-Repository/tree/main/HR%20Analytics%20Dashboard) |
+|  **Sales Performance Dashboard** | Monitor sales, profit, customer behavior, product performance, and regional trends through interactive visualizations. | [View Project](https://github.com/iamhoping/PowerBi-Portfolio-Project-Repository/tree/main/Sales-Performance-Dashboard) |
+|  **Student Productivity & Social Media Impact** | Explore the relationship between social media usage and students' productivity, study habits, sleep, and academic performance. | [View Project](https://github.com/iamhoping/PowerBi-Portfolio-Project-Repository/tree/main/Student%20Productivity%20%26%20Social%20Media%20Impact) |
 
 ---
 
-## Project 2: HR Analytics Dashboards
-A suite of dashboards built using a corporate dataset to track company-wide workforce metrics.
+##  Skills Demonstrated
 
-### 1. Performance vs. Education & Location
-Tracks employee performance scores based on their education level and where they are located.
-
-<p align="center">
-  <img src="Screenshot 2026-05-18 115552.png" width="850" alt="Performance Dashboard">
-</p>
-
-### 2. Company Turnover Tracker
-Monitors annual employee attrition trends and identifies high-risk departments.
-
-<p align="center">
-  <img src="Screenshot 2026-05-18 115541.png" width="850" alt="Turnover Dashboard">
-</p>
-
-### 3. Compensation Analysis
-Breaks down the average salary across different job titles, departments, and work environments (On-site vs. Remote).
-
-<p align="center">
-  <img src="Screenshot 2026-05-18 121945.png" width="850" alt="Compensation Dashboard">
-</p>
+- Power BI Dashboard Development
+- Data Cleaning & Transformation (Power Query)
+- Data Modeling
+- DAX Measures & Calculated Columns
+- KPI Development
+- Interactive Dashboards
+- Business Intelligence
+- Data Storytelling
+- Data Visualization Best Practices
 
 ---
 
-## Skills Learned & Demonstrated
-* **Data Visualization:** Choosing the right charts (Scatter, Donut, Bar, Line, and KPI cards) to make raw data easy to read.
-* **Interactivity:** Setting up button slicers (like the `Procrastination Level` and `Location` filters) for dynamic data exploration.
-* **Dashboard Design:** Organizing visuals with clear alignments, consistent colors, and clean spacing.
+##  Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- CSV Datasets
+
 
 ---
 
-## Next Steps for Me
-As I keep learning Power BI, I plan to:
-1. Learn more advanced **DAX formulas** for custom calculations.
-2. Practice connecting and transforming messy data using **Power Query**.
+##  What You'll Find
+
+Each project includes:
+
+-  Project Overview
+-  Business Objective
+-  Dataset Description
+-  Data Cleaning Process
+-  Data Modeling
+-  Dashboard Preview
+-  Key Insights
+-  Business Recommendations
+-  Skills Used
+
+---
+
+## Learning Roadmap
+
+As I continue improving my Power BI skills, I plan to:
+
+- Learn advanced DAX formulas and optimization.
+- Build reports using SQL Server as a data source.
+- Create dynamic dashboards with drill-through and bookmarks.
+- Implement Row-Level Security (RLS).
+- Publish reports using Power BI Service.
+- Build enterprise-style star schema data models.
+- Optimize report performance for large datasets.
+
+---
+
+## About Me
+
+I'm continuously building projects to strengthen my skills in **Data Analytics**, **Business Intelligence**, and **Data Visualization**.
+
+My goal is to become a professional **Data Analyst** by creating real-world projects that transform raw data into meaningful business insights.
+
+---
+
+### Connect with Me
+
+- GitHub: https://github.com/iamhoping
+- LinkedIn: *(Add your LinkedIn profile here)*
+
+---
+
+ **If you find this portfolio helpful, consider giving this repository a Star!**
