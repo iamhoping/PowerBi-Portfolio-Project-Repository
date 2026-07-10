@@ -1,30 +1,52 @@
-## Project : HR Analytics Dashboards
-A suite of dashboards built using a corporate dataset to track company-wide workforce metrics.
+##  Project: HR Analytics Dashboards
 
-### 1. Performance vs. Education & Location
-Tracks employee performance scores based on their education level and where they are located.
+A collection of interactive Power BI dashboards built using a corporate HR dataset to analyze workforce performance, employee retention, and compensation trends. These dashboards provide HR teams and business leaders with actionable insights for data-driven decision-making.
 
+### Dashboard 1: Performance vs. Education & Location
+Analyzes employee performance across different education levels and office locations to identify workforce strengths, performance patterns, and regional differences.
 <p align="center">
   <img src="/Screenshot 2026-05-18 115552.png" width="850" alt="Performance Dashboard">
 </p>
 
-### 2. Company Turnover Tracker
-Monitors annual employee attrition trends and identifies high-risk departments.
-
+### Dashboard 2: Company Turnover Tracker
+Monitors employee attrition trends over time, highlights turnover rates across departments, and identifies areas with high retention risk.
 <p align="center">
-  <img src="Screenshot 2026-05-18 115541.png" width="850" alt="Turnover Dashboard">
+  <img src="/Screenshot 2026-05-18 115541.png" width="850" alt="Turnover Dashboard">
 </p>
 
-### 3. Compensation Analysis
-Breaks down the average salary across different job titles, departments, and work environments (On-site vs. Remote).
-
+### Dashboard 3: Compensation Analysis
+Explores salary distribution by job title, department, employment type, and work environment (On-site vs. Remote) to support compensation benchmarking.
 <p align="center">
-  <img src="Screenshot 2026-05-18 121945.png" width="850" alt="Compensation Dashboard">
+  <img src="/Screenshot 2026-05-18 121945.png" width="850" alt="Compensation Dashboard">
 </p>
 
 ---
 
-## Skills Learned & Demonstrated
-* **Data Visualization:** Choosing the right charts (Scatter, Donut, Bar, Line, and KPI cards) to make raw data easy to read.
-* **Interactivity:** Setting up button slicers (like the `Procrastination Level` and `Location` filters) for dynamic data exploration.
-* **Dashboard Design:** Organizing visuals with clear alignments, consistent colors, and clean spacing.
+## Skills Demonstrated
+
+### Data Preparation
+- Data cleaning and transformation using **Power Query**
+- Data modeling and relationship management
+- Data validation and formatting
+
+### Power BI Development
+- Interactive dashboard creation
+- KPI design and implementation
+- Drill-down and cross-filtering
+- Slicer and filter configuration
+- Dashboard navigation
+
+
+### Business Analysis
+- Employee Performance Analysis
+- Workforce Analytics
+- Employee Attrition Analysis
+- Compensation Analysis
+- HR Reporting
+- Data Storytelling
+
+### Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
